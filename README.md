@@ -1,3 +1,10 @@
+
+https://hassiohelp.eu/2021/04/08/recycled-rendiamo-liberi-i-gateway-xiaomi-zigbee2mqtt-ble-audio-con-il-firmware-openwrt/#LUCE_E_AUDIO
+
+Usei este site também para complementar o tutorial abaixo
+
+
+
 # Installing an alternate OpenWrt firmware on DGNWG05LM and ZHWG11LM gateways
 
 ## Table of Contents
